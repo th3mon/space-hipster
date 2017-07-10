@@ -1,0 +1,13 @@
+{
+  "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module",
+      "ecmaFeatures": {
+      }
+  },
+  "rules": {
+    "no-multi-spaces": "error",
+    "new-cap": [2, { "properties": false } ],
+    "indent": [2, 2, { "SwitchCase": 1 }]
+  }
+}
